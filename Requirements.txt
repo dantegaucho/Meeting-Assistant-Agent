@@ -1,0 +1,5 @@
+langdetect
+python-telegram-bot
+openai
+python-docx
+reportlab
