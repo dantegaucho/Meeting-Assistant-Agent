@@ -1,0 +1,13 @@
+# Files to ignore
+.env
+__pycache__/
+venv/
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
